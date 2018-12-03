@@ -1,0 +1,15 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+config.json
+
+# Python Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__
+*.pyc
